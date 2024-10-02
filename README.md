@@ -2,18 +2,19 @@
 
 ## Estado de Progreso
 
-| Algoritmo        | Tuning | Training | SHAP | Associations |
-|------------------|--------|----------|------|--------------|
-| BaggedKNN        | [ ]    | [ ]      | [ ]  | [ ]          |
-| CatBoost         | [ ]    | [ ]      | [ ]  | [ ]          |
-| ElasticNet       | [ ]    | [ ]      | [ ]  | [ ]          |
-| Kernel Ridge     | [ ]    | [ ]      | [ ]  | [ ]          |
-| KNN              | [ ]    | [ ]      | [ ]  | [ ]          |
-| Lasso            | [x]    | [x]      | [x]  | [x]          |
-| MLP              | [ ]    | [ ]      | [ ]  | [ ]          |
-| Random Forest    | [x]    | [x]      | [ ]  | [ ]          |
-| SVR              | [x]    | [x]      | [ ]  | [x]          |
-| XGBoost          | [ ]    | [ ]      | [ ]  | [ ]          |
+| Algoritmo        | Tuning | Training  1-iter| SHAP bestFold | Training  20-iter | SHAP | Associations |
+|------------------|--------|----------|------|--------------|-------------|------------|
+| BaggedKNN        | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| CatBoost         | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| ElasticNet       | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| Kernel Ridge     | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| KNN              | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| Lasso            | [x]    | [x]      | [x]  | [x]          | [x]         | [x]        |
+| MLP              | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| Random Forest    | [x]    | [x]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| SVR              | [x]    | [x]      | [ ]  | [x]          | [ ]         | [ ]        |
+| XGBoost          | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+
 
 ### Etapas
 
