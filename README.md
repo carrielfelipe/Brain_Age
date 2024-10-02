@@ -2,7 +2,7 @@
 
 ## Estado de Progreso
 
-| Algoritmo        | Tuning | Training  1-iter| SHAP bestFold | Training  20-iter | SHAP | Associations |
+| Algoritmo        | Tuning | Training  1-iter| SHAP bestFold | Training  20-iter | SHAP 20-iter| Associations |
 |------------------|--------|----------|------|--------------|-------------|------------|
 | BaggedKNN        | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
 | CatBoost         | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
