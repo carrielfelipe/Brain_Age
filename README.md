@@ -4,15 +4,15 @@
 
 | Algoritmo        | Tuning | Training  1-iter| SHAP bestFold | Training  20-iter | SHAP 20-iter| Associations |
 |------------------|--------|----------|------|--------------|-------------|------------|
-| BaggedKNN        | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| BaggedKNN        | [x]    | [x]      | [x]  | [x]          | [ ]         | [x]        |
 | CatBoost         | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
-| ElasticNet       | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
-| Kernel Ridge     | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
-| KNN              | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
+| ElasticNet       | [x]    | [x]      | [x]  | [x]          | [x]         | [x]        |
+| Kernel Ridge     | [x]    | [x]      | [x]  | [x]          | [ ]         | [x]        |
+| KNN              | [x]    | [x]      | [x]  | [x]          | [ ]         | [x]        |
 | Lasso            | [x]    | [x]      | [x]  | [x]          | [x]         | [x]        |
 | MLP              | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
-| Random Forest    | [x]    | [x]      | [ ]  | [ ]          | [ ]         | [ ]        |
-| SVR              | [x]    | [x]      | [ ]  | [x]          | [ ]         | [ ]        |
+| Random Forest    | [x]    | [x]      | [x]  | [ ]          | [ ]         | [ ]        |
+| SVR              | [x]    | [x]      | [x]  | [x]          | [ ]         | [x]        |
 | XGBoost          | [ ]    | [ ]      | [ ]  | [ ]          | [ ]         | [ ]        |
 
 
